@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="edit_text_preference"
+        android:title="Connection settings">>
+
+        <EditTextPreference
+            android:key="edit_text_preference_address"
+            android:title="@string/server_address"
+            android:defaultValue="@string/default_address">
+        </EditTextPreference>
+
+        <CheckBoxPreference
+            android:key="check_box_preference_auto_connect"
+            android:title="@string/auto_connect"
+            android:defaultValue="false">
+        </CheckBoxPreference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

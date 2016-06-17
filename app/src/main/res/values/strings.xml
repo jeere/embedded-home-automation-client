@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OHAP Client 2016-014</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="connection_settings">Connection settings</string>
+    <string name="server_address">Server address</string>
+    <string name="default_address">http://10.0.2.2:18001</string>
+    <string name="auto_connect">Automatic connecting</string>
+
+    <string name="main_items">Main items</string>
+    <string name="row_text">-</string>
+
+    <string name="device_switch">Switch</string>
+    <string name="breadcrump">TOL / GF331</string>
+    <string name="device_name">-</string>
+    <string name="device_desc">-</string>
+    <string name="device_decimal_progress">0%</string>
+
+</resources>
